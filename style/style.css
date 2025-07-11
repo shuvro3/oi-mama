@@ -1,0 +1,146 @@
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+header{
+    background-image: url(/Hero-bg.png);padding: 0px;margin: 0px;
+   
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 150px;
+}
+.nav-title{
+    color: #4E47FF;
+    font-weight: 900;
+    font-size: 34;
+    
+}
+header nav ul{ 
+    list-style: none;
+}
+nav li a{
+    text-decoration: none;
+    color: white;
+}
+.btn-primary{
+    background-color: #4E47FF;
+    font-weight: bold;
+    padding: 12px 36px;
+    border-radius: 10px;
+    border: none;
+    
+}
+.div-bannar{
+    text-align: center;
+    color: #252432;
+    font-weight: bold;
+    font-size: 50px;
+    text-decoration: none;
+}
+.dim{
+    padding: 152px 267px;
+}
+.batton{
+    text-align: center;
+    padding: 37px 0px 0px 0px;
+}
+.dim2{
+    text-decoration: none;
+    color: white;
+}
+.potol{
+    color: #252432;
+    
+}
+.potol2{
+    color: #25243287;
+}
+.welcome{
+    height: 328px;
+    width: 403px;
+    border-radius: 48px;
+}
+.kana{
+    display: flex;
+     justify-content: space-between;
+     padding: 116px 159px 116px 141px;
+     align-items: center;
+}
+.bg{
+    background-color:#4d47ff22;
+    border-radius: 24px;
+    margin: 116px 169px 137px 141px;
+}
+.alo{
+    text-align: center;
+}
+.about-items{
+   display: flex;
+   justify-content: space-around;
+   padding: 0px 142px 50px;
+}
+.item-title{
+    color: #4E47FF;
+    font-size: xx-large;
+}
+.item-description{
+    color: #5243287;
+}
+.k{
+    padding-top: 50px;
+}
+.z{
+    text-align: center;
+    color: #252432;
+}
+.w{
+    height: 40px;
+    width: 40px;
+    border-radius: 50px
+}
+.x{
+    display: flex;
+    align-items: center;
+}
+.v{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 150px 136px 150px;
+}
+
+.u{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 350px;
+    text-align: center;
+}
+.s{
+    text-align: left;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    height: 40px;
+    width: 300px;
+}
+.r{
+    height: 70px;
+    width: 300px;
+    border-radius: 15px;
+}
+.q,{
+    height: 40px;
+    width: 300px;
+    border-radius: 15px;
+}
+.p,hover{
+    color: white;
+    text-decoration: none;
+}
+.t:hover{
+    color: black;
+}
