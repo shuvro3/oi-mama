@@ -144,3 +144,7 @@ nav li a{
 .t:hover{
     color: black;
 }
+.about{
+    text-align: center;
+    padding: 104px 455px;
+}
